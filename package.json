@@ -174,7 +174,7 @@
     "@fullcalendar/multimonth": "6.1.15",
     "@fullcalendar/timegrid": "6.1.15",
     "@mind-elixir/node-menu": "1.0.5",
-    "@playwright/test": "1.51.1",
+    "@playwright/test": "1.56.1",
     "@popperjs/core": "2.11.8",
     "@types/archiver": "6.0.3",
     "@types/better-sqlite3": "7.6.12",
